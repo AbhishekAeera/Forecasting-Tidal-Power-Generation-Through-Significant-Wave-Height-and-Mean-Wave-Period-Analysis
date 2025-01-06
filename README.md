@@ -1,1 +1,0 @@
-# Forecasting-Tidal-Power-Generation-Through-Significant-Wave-Height-and-Mean-Wave-Period-Analysis
